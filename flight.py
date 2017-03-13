@@ -27,3 +27,6 @@ while(True):
 	tilt = find_tilt()
 	orient = correct_tilt(orient, tilt)
 	time.sleep(0.5)
+
+	
+print "hello"
